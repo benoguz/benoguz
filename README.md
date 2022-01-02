@@ -1,6 +1,6 @@
 # oguzhanyuce
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Edaaltuntas&show_icons=true&theme=dracula">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=benoguz&show_icons=true&theme=dracula">
 
 ## Hi 😎
 I am passionate about fields such as artificial intelligence, machine learning and data science.
